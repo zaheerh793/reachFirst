@@ -1,0 +1,7 @@
+# Ignore virtual environment directories
+venv/
+
+# Ignore IDE-specific files
+.idea/
+db.sqlite3
+employee_M_system/migrations/
